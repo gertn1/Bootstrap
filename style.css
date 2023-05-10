@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(103, 66, 66);
+}
+.cachorro{
+    display: flex;
+    justify-content: space-around;
+}
+.card-group{
+    display: flex;
+}
