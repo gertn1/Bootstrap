@@ -8,3 +8,7 @@ body{
 .card-group{
     display: flex;
 }
+.custom-footer {
+    background-color: rgb(103, 66, 66);
+  }
+  
