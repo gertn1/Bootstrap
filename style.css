@@ -11,11 +11,9 @@ body{
 .custom-footer {
     background-color: rgb(103, 66, 66);
   }
-  .texto1 {
-       color: #000;
-
-  }
-  .texto-center {
-        color: #000;
-        
-  }
+ .texto{
+ text-align: center;
+ }
+ #oi{
+    text-align: center;
+ }
