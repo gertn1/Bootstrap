@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(103, 66, 66);
+    background-color: rgb(220, 188, 188);
 }
 .cachorro{
     display: flex;
@@ -11,4 +11,11 @@ body{
 .custom-footer {
     background-color: rgb(103, 66, 66);
   }
-  
+  .texto1 {
+       color: #000;
+
+  }
+  .texto-center {
+        color: #000;
+        
+  }
